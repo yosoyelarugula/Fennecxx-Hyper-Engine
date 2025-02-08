@@ -1,0 +1,34 @@
+{
+    "games": [
+      {
+        "name": "Test",
+        "source": "https://example.com",
+        "image": "https://via.placeholder.com/220x220?text=Insert+fun+game",
+        "desc": "A Game"
+      },
+      {
+        "name": "Game 2",
+        "source": "https://example.com",
+        "image": "https://via.placeholder.com/220x220?text=Fun+Game+2",
+        "desc": "A Game"
+      },
+      {
+        "name": "Game 3",
+        "source": "https://example.com",
+        "image": "https://via.placeholder.com/220x220?text=Another+Game",
+        "desc": "A Game"
+      },
+      {
+        "name": "Game 4",
+        "source": "https://example.com",
+        "image": "https://via.placeholder.com/220x220?text=More+Games",
+        "desc": "A Game"
+      },
+      {
+        "name": "Game 5",
+        "source": "https://example.com",
+        "image": "https://via.placeholder.com/220x220?text=Final+Game",
+        "desc": "A Game"
+      }
+    ]
+  }
