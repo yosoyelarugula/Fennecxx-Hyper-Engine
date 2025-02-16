@@ -22,7 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+.next
 
 #Polaris folder
-
-Polaris-work
+Polaris-work/
+Fennecxx-skeleton/
