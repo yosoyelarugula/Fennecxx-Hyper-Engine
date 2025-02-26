@@ -19,7 +19,7 @@ const Fennecxx = () => {
               <Image 
                 src="/icons/games.svg" 
                 alt="Games" 
-                width={20}
+                width={25}
                 height={20} 
                 className="invert"
               />

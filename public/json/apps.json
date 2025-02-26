@@ -1,0 +1,20 @@
+[
+    {
+      "name": "App 1",
+      "source": "https://example.com",
+      "image": "https://via.placeholder.com/220x220?text=App+1",
+      "desc": "A Productivity App"
+    },
+    {
+      "name": "App 2",
+      "source": "https://example.com",
+      "image": "https://via.placeholder.com/220x220?text=App+2",
+      "desc": "A Utility App"
+    },
+    {
+      "name": "App 3",
+      "source": "https://example.com",
+      "image": "https://via.placeholder.com/220x220?text=App+3",
+      "desc": "A Tool App"
+    }
+  ]
