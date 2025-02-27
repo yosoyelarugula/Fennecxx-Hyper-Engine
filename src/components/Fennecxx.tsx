@@ -15,7 +15,8 @@ const Fennecxx = () => {
           <p className="text-gray-300 text-2xl mb-8">the discrete, hyper-fast games website</p>
           
           <div className="flex gap-6 justify-center mb-8">
-<button className="bg-[#1a2942] hover:bg-[#243755] p-3 rounded-full flex items-center justify-center transition-colors w-36 h-12">
+          <Link href="/games">
+            <button className="bg-[#1a2942] hover:bg-[#243755] p-3 rounded-full flex items-center justify-center transition-colors w-36 h-12">
               <Image 
                 src="/icons/games.svg" 
                 alt="Games" 
@@ -25,6 +26,8 @@ const Fennecxx = () => {
               />
                ‎  Games
             </button>
+            </Link>
+            <Link href="/apps">
             <button className="bg-[#1a2942] hover:bg-[#243755] p-3 rounded-full flex items-center justify-center transition-colors w-36 h-12">
               <Image 
                 src="/icons/apps.svg" 
@@ -35,7 +38,10 @@ const Fennecxx = () => {
               />
               ‎‎‎ Apps
             </button>
-            {/*  <button className="bg-[#1a2942] hover:bg-[#243755] p-3 rounded-full flex items-center justify-center transition-colors w-36 h-12">
+            </Link>
+            {/* 
+            <Link href="/games">
+            <button className="bg-[#1a2942] hover:bg-[#243755] p-3 rounded-full flex items-center justify-center transition-colors w-36 h-12">
               <Image 
                 src="/icons/settings.svg" 
                 alt="Settings" 
@@ -43,7 +49,9 @@ const Fennecxx = () => {
                 height={20} 
                 className="invert"
               />
-            </button>  */}
+            </button>  
+            </link>
+            */}
           </div>
           
           <p className="text-gray-400 text-1.5xl text-sm mb-4">
