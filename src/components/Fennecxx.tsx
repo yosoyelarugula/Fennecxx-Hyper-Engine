@@ -1,11 +1,15 @@
 "use client";
 
 import React from 'react';
+import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 import Image from 'next/image';
 import ParticleCanvas from './ParticleCanvas';
 
 const Fennecxx = () => {
+
+  const router = useRouter();
+
   return (
     <>
       <ParticleCanvas />
@@ -15,8 +19,7 @@ const Fennecxx = () => {
           <p className="text-gray-300 text-2xl mb-8">the discrete, hyper-fast games website</p>
           
           <div className="flex gap-6 justify-center mb-8">
-          <Link href="/games">
-            <button className="bg-[#1a2942] hover:bg-[#243755] p-3 rounded-full flex items-center justify-center transition-colors w-36 h-12">
+            <button onClick={() => router.push("/games")} className="bg-[#1a2942] hover:bg-[#243755] p-3 rounded-full flex items-center justify-center transition-colors w-36 h-12">
               <Image 
                 src="/icons/games.svg" 
                 alt="Games" 
@@ -26,9 +29,7 @@ const Fennecxx = () => {
               />
                ‎  Games
             </button>
-            </Link>
-            <Link href="/apps">
-            <button className="bg-[#1a2942] hover:bg-[#243755] p-3 rounded-full flex items-center justify-center transition-colors w-36 h-12">
+            <button onClick={() => router.push("/apps")} className="bg-[#1a2942] hover:bg-[#243755] p-3 rounded-full flex items-center justify-center transition-colors w-36 h-12">
               <Image 
                 src="/icons/apps.svg" 
                 alt="Apps" 
@@ -38,7 +39,6 @@ const Fennecxx = () => {
               />
               ‎‎‎ Apps
             </button>
-            </Link>
             {/* 
             <Link href="/games">
             <button className="bg-[#1a2942] hover:bg-[#243755] p-3 rounded-full flex items-center justify-center transition-colors w-36 h-12">

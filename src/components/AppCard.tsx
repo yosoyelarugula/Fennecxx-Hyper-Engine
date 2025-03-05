@@ -1,3 +1,5 @@
+"use client";
+
 interface AppCardProps {
     name: string;
     desc: string;

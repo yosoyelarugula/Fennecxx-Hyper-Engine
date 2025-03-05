@@ -1,3 +1,5 @@
+"use client";
+
 interface GameCardProps {
   name: string;
   desc: string;
