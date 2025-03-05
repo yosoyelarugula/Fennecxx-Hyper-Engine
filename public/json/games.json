@@ -2,19 +2,19 @@
     {
       "name": "Test",
       "source": "https://example.com",
-      "image": "https://via.placeholder.com/220x220?text=Insert+fun+game",
+      "image": "https://placehold.co/220",
       "desc": "A Game"
     },
     {
       "name": "Game 2",
       "source": "https://example.com",
-      "image": "https://via.placeholder.com/220x220?text=Insert+fun+game",
+      "image": "https://placehold.co/220",
       "desc": "A Game"
     },
     {
       "name": "Game 3",
       "source": "https://example.com",
-      "image": "https://via.placeholder.com/220x220?text=Insert+fun+game",
+      "image": "https://placehold.co/220",
       "desc": "A Game"
     }
   ]
