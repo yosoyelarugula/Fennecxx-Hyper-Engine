@@ -44,22 +44,22 @@ export default function Header() {
         </nav>
         
         <div className="flex gap-4">
-          <button onClick={() => window.open('https://github.com/fennecxx', '_blank')}>
+          <button onClick={() => window.open('https://github.com/yosoyelarugula/Fennecxx-Hyper-Engine', '_blank')}>
             <Image 
               src="/icons/github.svg" 
               alt="GitHub" 
               width={24} 
               height={24} 
-              className="text-white/60 hover:text-white" 
+              className="text-white/60 hover:text-white invert" 
             />
           </button>
-          <button onClick={() => window.open('https://youtube.com/@fennecxx', '_blank')}>
+          <button onClick={() => window.open('https://youtube.com/@Yo-Soy-El-Arugula', '_blank')}>
             <Image 
               src="/icons/youtube.svg" 
               alt="YouTube" 
               width={24} 
               height={24} 
-              className="text-white/60 hover:text-white" 
+              className="text-white/60 hover:text-white invert"
             />
           </button>
         </div>

@@ -1,5 +1,9 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+tabby_x86_64-manylinux_2_28.tar.gz
+
+/tabby
+
 # dependencies
 /node_modules
 /.pnp

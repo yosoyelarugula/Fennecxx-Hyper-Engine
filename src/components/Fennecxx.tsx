@@ -59,7 +59,7 @@ const Fennecxx = () => {
           </p>
           
           <div className="flex gap-4 justify-center">
-            <Link href="https://github.com" className="text-gray-400 hover:text-white transition-colors">
+            <Link href="https://github.com/yosoyelarugula/Fennecxx-Hyper-Engine" className="text-gray-400 hover:text-white transition-colors">
               <Image 
                 src="/icons/github.svg" 
                 alt="GitHub" 
@@ -68,7 +68,7 @@ const Fennecxx = () => {
                 className="invert"
               />
             </Link>
-            <Link href="https://youtube.com" className="text-gray-400 hover:text-white transition-colors">
+            <Link href="https://youtube.com/@Yo-Soy-El-Arugula" className="text-gray-400 hover:text-white transition-colors">
               <Image 
                 src="/icons/youtube.svg" 
                 alt="YouTube" 
