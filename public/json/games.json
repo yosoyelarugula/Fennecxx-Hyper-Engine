@@ -6,12 +6,6 @@
       "desc": "Divide the numbers and get to the 1 tile!"
     },
     {
-      "name": "1v1.lol",
-      "source": "https://yosoyelarugula.github.io/fennecxx-assets/games/1v1lol/index.html",
-      "image": "https://cdn.jsdelivr.net/gh/yosoyelarugula/fennecxx-assets@main/assets/1v1lol.png",
-      "desc": "Discover 1v1, the online building simulator & third person shooting game. Battle royale, build fight, box fight, zone wars and more game modes to enjoy!"
-    },
-    {
       "name": "2048",
       "source": "https://yosoyelarugula.github.io/fennecxx-assets/games/2048/index.html",
       "image": "https://cdn.jsdelivr.net/gh/yosoyelarugula/fennecxx-assets@main/assets/2048.png",
@@ -22,5 +16,17 @@
       "source": "https://yosoyelarugula.github.io/fennecxx-assets/games/DogeMiner/index.html",
       "image": "https://cdn.jsdelivr.net/gh/yosoyelarugula/fennecxx-assets@main/assets/DogeMiner.png",
       "desc": "Try to earn 50 billion dogecoin to go to the moon!"
+    },
+    {
+      "name": "Run 2",
+      "source": "https://yosoyelarugula.github.io/fennecxx-assets/games/Run2/index.html",
+      "image": "https://cdn.jsdelivr.net/gh/yosoyelarugula/fennecxx-assets@main/assets/Run2.png",
+      "desc": "Play Run 2, the game that requires tremendous concentration and memorization as you run (or skate) through the 3-dimensional courses."
+    },
+    {
+      "name": "A Dance of Fire and Ice (ADOFAI)",
+      "source": "https://yosoyelarugula.github.io/fennecxx-assets/games/adofai/index.html",
+      "image": "https://cdn.jsdelivr.net/gh/yosoyelarugula/fennecxx-assets@main/adofai/Run2.png",
+      "desc": "A Dance of Fire and Ice is a strict one-button rhythm game. You control two orbiting planets as they travel down a winding path."
     }
   ]
